@@ -1,4 +1,4 @@
-@import url("/css/bootstrap4.css");
+@import url("../css/bootstrap4.css");
 @import url("https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap");
 @import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
@@ -587,11 +587,11 @@ button {
 }
 
 #main_slider a.carousel-control-next {
-  right: 615px;
+  right: 650px;
   top: 105%;
 }
 #main_slider a.carousel-control-prev {
-  left: 615px;
+  left: 650px;
   top: 105%;
 }
 #main_slider .carousel-control-next {
